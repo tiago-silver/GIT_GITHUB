@@ -1,6 +1,6 @@
 ### Aulas de GIT e GITHUB
 
-Neste projeto eu aprendir diveros comandos de git 
+Neste projeto eu aprendi diveros comandos de git 
 - Git init
 - Git config
 - Git commit
